@@ -70,7 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-My project/Library/ArtifactDB
+My project/Library
 My project/Library/SourceAssetDB
 *.log
 My project/Library/SourceAssetDB
@@ -83,3 +83,4 @@ My project/Library/SourceAssetDB
 My project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
 *.log
 *.log
+My project/Logs

@@ -72,3 +72,6 @@ crashlytics-build.properties
 /My project/Logs/
 /My project/Temp/
 
+My project/Library/SourceAssetDB
+My project/Library/CurrentLayout-default.dwlt
+My project/Library/ArtifactDB

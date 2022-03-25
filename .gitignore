@@ -67,20 +67,3 @@ crashlytics-build.properties
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
-# Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
-My project/Library
-My project/Library/SourceAssetDB
-*.log
-My project/Library/SourceAssetDB
-My project/Library/ArtifactDB
-My project/Library/CurrentLayout-default.dwlt
-My project/Library/SourceAssetDB
-My project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
-My project/Library/ArtifactDB
-My project/Library/SourceAssetDB
-My project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
-*.log
-*.log
-My project/Logs

@@ -6,6 +6,7 @@ public class Class1 : MonoBehaviour
 {
     class Artist
     {
+
         //능력치
         public int vocal;
         public int dance;
@@ -15,9 +16,10 @@ public class Class1 : MonoBehaviour
         public int dance_limit;
         public int appearance_limit;
         //특성
-        public boolean homosexuality = false;
-        public boolean feminism = true;
+        public bool homosexuality = false;
+        public bool feminism = true;
         public int patience;
-
+        //팬
+        public int personal_fans;
     }
 }

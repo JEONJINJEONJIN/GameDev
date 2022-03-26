@@ -18,8 +18,10 @@ public class Class1 : MonoBehaviour
         //Æ¯¼º
         public bool homosexuality = false;
         public bool feminism = true;
-        public int patience;
+        public int patience=0;
         //ÆÒ
-        public int personal_fans;
+        public int personal_fans=0;
     }
+
+    
 }
